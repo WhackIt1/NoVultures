@@ -1,0 +1,23 @@
+<configs>
+	<csv xpath="//entitygroup[@name='EnemyAnimalsDesert']/text()" delim="\n" op="remove">animalZombieVulture, 20</csv>
+	<csv xpath="//entitygroup[@name='EnemyAnimalsWasteland']/text()" delim="\n" op="remove">animalZombieVulture, 30</csv>
+	<csv xpath="//entitygroup[contains(@name, 'ZombiesWastelandNight')]/text()" delim="\n" op="remove">animalZombieVulture, .6</csv>
+	<csv xpath="//entitygroup[contains(@name, 'ZombiesWastelandNight')]/text()" delim="\n" op="remove">animalZombieVultureRadiated, .4</csv>
+	<remove xpath="//entitygroup[contains(@name, 'Vulture')]"/>
+	<csv xpath="//entitygroup[contains(@name, 'HordeStage')]/text()" delim="\n" op="remove">animalZombieVulture, .114</csv>
+	<csv xpath="//entitygroup[contains(@name, 'HordeStage')]/text()" delim="\n" op="remove">animalZombieVulture, .119</csv>
+	<csv xpath="//entitygroup[contains(@name, 'HordeStage')]/text()" delim="\n" op="remove">animalZombieVulture, .132</csv>
+	<csv xpath="//entitygroup[contains(@name, 'HordeStage')]/text()" delim="\n" op="remove">animalZombieVulture, .118</csv>
+	<csv xpath="//entitygroup[contains(@name, 'HordeStage')]/text()" delim="\n" op="remove">animalZombieVulture, .127</csv>
+	<csv xpath="//entitygroup[contains(@name, 'HordeStage')]/text()" delim="\n" op="remove">animalZombieVulture, .12</csv>
+	<csv xpath="//entitygroup[contains(@name, 'HordeStage')]/text()" delim="\n" op="remove">animalZombieVulture, .13</csv>
+	<csv xpath="//entitygroup[contains(@name, 'HordeStage')]/text()" delim="\n" op="remove">animalZombieVulture, .16</csv>
+	<csv xpath="//entitygroup[contains(@name, 'HordeStage')]/text()" delim="\n" op="remove">animalZombieVulture, .2</csv>
+	<csv xpath="//entitygroup[contains(@name, 'HordeStage')]/text()" delim="\n" op="remove">animalZombieVulture, .24</csv>
+	<csv xpath="//entitygroup[contains(@name, 'HordeStage')]/text()" delim="\n" op="remove">animalZombieVulture, .29</csv>
+	<csv xpath="//entitygroup[contains(@name, 'HordeStage')]/text()" delim="\n" op="remove">animalZombieVulture, .3</csv>
+	<csv xpath="//entitygroup[contains(@name, 'HordeStage')]/text()" delim="\n" op="remove">animalZombieVultureRadiated, .16</csv>
+	<csv xpath="//entitygroup[contains(@name, 'HordeStage')]/text()" delim="\n" op="remove">animalZombieVultureRadiated, .27</csv>
+	<csv xpath="//entitygroup[contains(@name, 'HordeStage')]/text()" delim="\n" op="remove">animalZombieVultureRadiated, .29</csv>
+	<csv xpath="//entitygroup[contains(@name, 'HordeStage')]/text()" delim="\n" op="remove">animalZombieVultureRadiated, .3</csv>	
+</configs>
